@@ -38,10 +38,10 @@ The dataset includes transactional sales data across different regions, customer
 
 ## Tools & Technologies Used
 
--> Python (Pandas, NumPy, Matplotlib, Seaborn)
--> SQL (Data analysis and business queries using PostgreSQL and PgAdmin)
--> Power BI Desktop (Dashboard creation and visualization)
--> Jupyter Notebook (Python analysis environment)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (Data analysis and business queries using PostgreSQL and PgAdmin)
+- Power BI Desktop (Dashboard creation and visualization)
+- Jupyter Notebook (Python analysis environment)
 
 ## Project Workflow
 
@@ -68,12 +68,12 @@ This step ensured that the dataset was reliable and ready for downstream analyti
 
 Python libraries were used to perform detailed exploratory data analysis.
 Key Analyses Performed:
--> Overall sales and profit overview
--> Sales distribution across product categories
--> Profitability analysis across regions
--> Customer segment-wise sales analysis
--> Identification of seasonal and trend-based patterns
--> Analysis of loss-making sub-categories
+- Overall sales and profit overview
+- Sales distribution across product categories
+- Profitability analysis across regions
+- Customer segment-wise sales analysis
+- Identification of seasonal and trend-based patterns
+- Analysis of loss-making sub-categories
    
 Visualizations such as bar charts, line charts, and scatter plots were created to understand patterns and relationships within the data.
 
@@ -132,20 +132,20 @@ Slicers were added to allow users to dynamically filter data and explore insight
 
 ## Key Insights from Power BI Dashboard
 
--> Technology category consistently outperforms other categories in revenue
--> Central region requires strategic improvements to improve profitability
--> Excessive discounting significantly impacts overall profit margins
--> Certain product sub-categories need pricing or cost restructuring
--> Shipping mode optimization can improve profit efficiency
+- Technology category consistently outperforms other categories in revenue
+- Central region requires strategic improvements to improve profitability
+- Excessive discounting significantly impacts overall profit margins
+- Certain product sub-categories need pricing or cost restructuring
+- Shipping mode optimization can improve profit efficiency
 
 ## Business Recommendations
 
 Based on the analysis, the following recommendations are proposed:
--> Optimize discount strategies, especially for loss-making products
--> Focus marketing and sales efforts on high-margin product categories
--> Review pricing and operational costs in underperforming regions
--> Reassess product sub-categories that consistently incur losses
--> Improve logistics planning by promoting cost-effective shipping modes
+- Optimize discount strategies, especially for loss-making products
+- Focus marketing and sales efforts on high-margin product categories
+- Review pricing and operational costs in underperforming regions
+- Reassess product sub-categories that consistently incur losses
+- Improve logistics planning by promoting cost-effective shipping modes
 
 ## Conclusion
 
@@ -155,11 +155,11 @@ The analysis supports data-driven decision-making and reflects industry-standard
 
 ## Future Enhancements
 
--> Integration of time-based analysis for trend forecasting
--> Addition of predictive models for sales forecasting
--> Automation of data refresh in Power BI
--> Expansion of analysis using customer-level data
--> Advanced DAX measures for deeper insights
+- Integration of time-based analysis for trend forecasting
+- Addition of predictive models for sales forecasting
+- Automation of data refresh in Power BI
+- Expansion of analysis using customer-level data
+- Advanced DAX measures for deeper insights
 
 This project serves as a strong demonstration of:
 - Data cleaning and preparation skills
