@@ -9,13 +9,13 @@ The aim of this project is to perform an end-to-end data analysis on sales data 
 ## Objectives of the Project
 
 The key objectives of this project are:
--> To clean and preprocess raw sales data for accurate analysis
--> To analyze sales and profit trends using Python-based data analysis techniques
--> To perform structured business analysis using SQL queries using PostgreSQL and PgAdmin
--> To identify key revenue drivers and loss-making areas
--> To study the impact of discounts on profitability
--> To build an interactive and visually appealing Power BI dashboard
--> To present insights and business recommendations clearly for stakeholders
+1. To clean and preprocess raw sales data for accurate analysis
+2. To analyze sales and profit trends using Python-based data analysis techniques
+3. To perform structured business analysis using SQL queries using PostgreSQL and PgAdmin
+4. To identify key revenue drivers and loss-making areas
+5. To study the impact of discounts on profitability
+6. To build an interactive and visually appealing Power BI dashboard
+7. To present insights and business recommendations clearly for stakeholders
 
 ## Dataset Description
 
