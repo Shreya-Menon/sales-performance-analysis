@@ -117,18 +117,25 @@ Page 1: Sales Overview Dashboard
 Key Performance Indicators (KPIs) such as Total Sales, Total Profit, and Profit Margin
 Sales distribution across categories and segments
 High-level business performance overview
+<img width="1411" height="708" alt="image" src="https://github.com/user-attachments/assets/ead4deae-8e33-472f-8903-ed3f78c59325" />
+
 
 Page 2: Profitability & Discount Analysis
 Region-wise profit analysis
 Discount vs profit relationship analysis
 Identification of loss-making product sub-categories
 Visual representation of discount impact on profitability
+<img width="1351" height="625" alt="image" src="https://github.com/user-attachments/assets/c54b188f-b2f3-4bc5-9591-b3969158f58f" />
+
 
 Page 3: Operational & Shipping Analysis
 Profitability by shipping mode
 Segment-wise performance breakdown
 Interactive filters for region, category, segment, and ship mode
 Slicers were added to allow users to dynamically filter data and explore insights interactively.
+<img width="1265" height="718" alt="image" src="https://github.com/user-attachments/assets/6a941fa1-6c99-45aa-9bb2-0b00fc87d64e" />
+
+
 
 ## Key Insights from Power BI Dashboard
 
